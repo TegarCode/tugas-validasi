@@ -3,7 +3,7 @@ const { USERS } = require("../items");
 
 const registerValidator = [
     body("fullName")
-    .notEmpty().withMessage("Email wajib diisi"),
+    .notEmpty().withMessage("FullName wajib diisi"),
     body("email")
     .notEmpty().withMessage("Email wajib diisi")
     .isEmail().withMessage("Email tidak valid")
