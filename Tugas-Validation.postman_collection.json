@@ -1,0 +1,53 @@
+{
+	"info": {
+		"_postman_id": "ae3d8fac-6b53-4b8a-9438-e59d2dc180da",
+		"name": "Tugas-Validation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29386132",
+		"_collection_link": "https://gold-shuttle-234838.postman.co/workspace/gold-shuttle-234838-Workspace~63c54726-2e60-40be-91d4-052d2bce2bca/collection/29386132-ae3d8fac-6b53-4b8a-9438-e59d2dc180da?action=share&source=collection_link&creator=29386132"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Users",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
